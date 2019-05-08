@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day1",
+            "request": "launch",
+            "mainClass": "com.github.funnygopher.adventofcode2018.day1.Day1",
+            "projectName": "adventofcode2018"
+        }
+    ]
+}
